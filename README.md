@@ -17,3 +17,8 @@ This project requires the following dependencies
 - NumPy
 - Matplotlib
 - scikit-learn
+
+Install the necessary Python packages using pip:
+
+```bash
+pip install numpy matplotlib scikit-learn
