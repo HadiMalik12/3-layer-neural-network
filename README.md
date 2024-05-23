@@ -1,4 +1,4 @@
-# Neural Network for Binary Classification
+# 3-layer-neural-network
 
 ## Description
 
